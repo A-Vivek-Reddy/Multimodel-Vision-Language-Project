@@ -86,9 +86,4 @@ In this project, we implement our method using the Pytorch library, the structur
     python train.py --validate True --checkpoint_dir /CHECKPOINT_PATH/ --transformer_ver lvit --batch_size 64
     ```
 
-
-## Contact
-
-For any queries, please raise an issue or contact [Long Bai](mailto:b.long@link.cuhk.edu.hk).
-
 ---
